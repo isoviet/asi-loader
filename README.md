@@ -1,5 +1,7 @@
 # <img src="https://isoviet.github.io/media/icons/gears/icon.svg" height="64"> ASI Loader
 
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/isoviet/asi-loader.svg)](http://isitmaintained.com/project/isoviet/asi-loader "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/isoviet/asi-loader.svg)](http://isitmaintained.com/project/isoviet/asi-loader "Percentage of issues still open")
+
 --------------
 
 * [О проекте](#introduction)
